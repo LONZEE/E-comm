@@ -14,3 +14,8 @@ The backend database is tailored for e-commerce websites through the utilization
 - [License](#License)
 - [Author](#Author)
 - [Contributions](#Contributions)
+
+
+## License & Copyright ©
+  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [Open Source Initiative Link](https://opensource.org/licenses/MIT)
