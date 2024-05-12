@@ -62,6 +62,10 @@ By having these features, I can ensure that my e-commerce platform runs smoothly
 ![](Assests\Ecompic.png)
 ### Seeded Database
 ![](Assests\E-compic.png)
+### Nodemon server.js
+![](Assests\connected.png)
+### Postman
+![](Assests\categor.png)
 
 ## What I Learned
 Throughout the development of this e-commerce back-end system, I gained a deeper understanding of several key concepts and technologies:
