@@ -13,7 +13,7 @@ The backend database is tailored for e-commerce websites through the utilization
 - [What I Learned](#What-I-Learned)
 - [License](#License)
 - [Author](#Author)
-- [Contributions](#Contributions)
+
 
 ## Usage Instructions
 1. Repository: Open documentation run 'npm i' and update '.env'.
@@ -76,5 +76,3 @@ This project was a valuable opportunity to apply and expand my back-end developm
 ## License & Copyright ©
   
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [Open Source Initiative Link](https://opensource.org/licenses/MIT)
-
-## Contributions
